@@ -1,0 +1,9 @@
+Seven thieves try to share a hoard of gold bars equally between themselves. Unfortunately, six bars are left over, and in the fight over them, 
+one thief is killed. The remaining six thieves, still unable to share the bars equally since two are left over, again fight, and another 
+is killed. When the remaining five thieves share the bars, one bar is left over, and it is only after yet another thief is killed that an equal 
+sharing is possible.
+	What is the minimum number of bars which allows this to happen?
+----------------------------
+
+This is a maths problem which can be solved using techniques that one would normally not learn until studying for a degree. But I thing -you- 
+could write a computer program which would find the solution. Try.
